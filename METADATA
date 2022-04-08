@@ -10,7 +10,6 @@ third_party {
     value: "https://github.com/bumptech/glide.git"
   }
   version: "v3.4"
-  license_type: NOTICE
   last_upgrade_date {
     year: 2014
     month: 11
