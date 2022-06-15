@@ -40,12 +40,12 @@ android_library {
     ],
     manifest: "library/src/main/AndroidManifest.xml",
     libs: [
-        "androidx.core_core",
-        "androidx.legacy_legacy-support-core-ui",
+        "android-support-core-ui",
+        "android-support-compat",
         "volley",
     ],
     static_libs: [
-        "androidx.fragment_fragment",
+        "android-support-fragment",
     ],
     sdk_version: "current",
 }
